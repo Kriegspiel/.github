@@ -18,7 +18,7 @@ This profile lists public project repositories only.
 | Repository | Purpose |
 | --- | --- |
 | [`ks-home`](https://github.com/Kriegspiel/ks-home) | Static public website for rules, blog, changelog, and public pages. |
-| [`content`](https://github.com/Kriegspiel/content) | Editable public content consumed by the website. |
+| [`ks-content`](https://github.com/Kriegspiel/ks-content) | Editable public content consumed by the website. |
 | [`ks-web-app`](https://github.com/Kriegspiel/ks-web-app) | Browser app for lobby, live play, review, profiles, leaderboards, and reports. |
 | [`ks-backend`](https://github.com/Kriegspiel/ks-backend) | FastAPI backend for the public API, auth, game lifecycle, ratings, bots, and transcripts. |
 | [`ks-game`](https://github.com/Kriegspiel/ks-game) | Python Kriegspiel engine and ruleset library published as `kriegspiel`. |
@@ -41,4 +41,4 @@ This profile lists public project repositories only.
 - To build a bot, start with [`bot-random`](https://github.com/Kriegspiel/bot-random)
   or [`bot-simple-heuristics`](https://github.com/Kriegspiel/bot-simple-heuristics).
 - To browse rules, articles, and public site content, start with
-  [`content`](https://github.com/Kriegspiel/content).
+  [`ks-content`](https://github.com/Kriegspiel/ks-content).
